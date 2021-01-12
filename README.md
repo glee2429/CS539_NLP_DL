@@ -3,7 +3,7 @@ Natural Language Processing with Deep Learning Concepts (e.g., Vector Semantics,
 
 ### Resources: 
 - https://web.stanford.edu/~jurafsky/slp3/
-
+- https://www.tutorialspoint.com/python_text_processing/python_tokenization.htm
 
 ### How to Get Started
 First, create a virtual environment for installing the required packages.
